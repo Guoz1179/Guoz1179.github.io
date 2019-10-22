@@ -16,11 +16,9 @@
 
 
 ## 演示地址
-[https://github-laziji.github.io][1]
-
+[https://guoz1179.github.io]
 ## 项目源码
-[https://github.com/GitHub-Laziji/vblog][3]
-
+[https://github.com/Guoz1179/Guoz1179.github.io]
 ## 项目特点
 
 - [x] 基于 GitHub Pages 无需服务器
